@@ -27,7 +27,7 @@ Data Sample:
 
 Convolutional Neural Network Model Details:
 ========
-
+![CNN Model](/read-me-img/cnn.jpg)
 
 Model Evaluation:
 ====
