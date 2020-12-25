@@ -34,8 +34,14 @@ Model Evaluation:
 ![accuracy of training and validation](/read-me-img/training-evaluation.jpg)
 
 
+Running the project locally
+======
+
 To run the project.<br>
 Run:
 ```python main.py``` <br>
 The main script will then run the flask app in the web browser at the port 5000 <br>
 #### localhost:5000
+
+To get the program to capture your camera feed, change the ```self.video``` value in the file ```video.py``` as folllows: <br>
+```self.video = cv2.VideoCapture(0) #if you put (0) as argument then expression from webcam would be taken```
