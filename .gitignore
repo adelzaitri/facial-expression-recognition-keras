@@ -132,3 +132,4 @@ dmypy.json
 #Test and Train Data
 test/
 train/
+videos/
