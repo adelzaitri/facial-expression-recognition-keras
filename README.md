@@ -32,3 +32,10 @@ Convolutional Neural Network Model Details:
 Model Evaluation:
 ====
 ![accuracy of training and validation](/read-me-img/training-evaluation.jpg)
+
+
+To run the project.<br>
+Run:
+```python main.py``` <br>
+The main script will then run the flask app in the web browser at the port 5000 <br>
+#### localhost:5000
