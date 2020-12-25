@@ -133,3 +133,6 @@ dmypy.json
 test/
 train/
 videos/
+
+#README.md
+README.md
