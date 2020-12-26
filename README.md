@@ -7,6 +7,11 @@ Goals:
 * Deploy the trained model to a web interface with Flask
 * Apply the model to real-time video streams and image data
 
+Results
+========
+
+![Results for Facial Expression Recognition](/read-me-img/result-express-recog.jpg)
+
 Project Steps:
 ======
 1.Introduction and Overview
